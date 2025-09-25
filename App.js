@@ -1,3 +1,4 @@
+//Act5
 import React from 'react';
 import { SafeAreaView, ScrollView } from 'react-native';
 import CounterApp from './CounterApp';
